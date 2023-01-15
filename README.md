@@ -2,6 +2,7 @@
 
 | Project Name  | Deployed link | Source Code |
 | ------------- | ------------- | ------------- |
+| Codex - ChatGPT | <https://codex-shubhanggupta2000.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/Codex" target="_blank">Code</a> |
 | Movies Info | <https://fazevennom-movies-info.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/movies-info" target="_blank">Code</a> |
 | Quiz-app | <https://fazevennom-quiz-app.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/quiz-app" target="_blank">Code</a> |
 | Todo  | <https://fazevennom-todo.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/todo" target="_blank">Code</a> |
