@@ -16,5 +16,4 @@
 | Chatbot  | `<Unhosted>`  | <a href="https://github.com/shubhanggupta2000/Chatbot" target="_blank">Code</a> |
 | Gericht Restaurant  | <https://fazevennom-gericht.netlify.app/> | <a href="https://github.com/shubhanggupta2000/Restaurant_UI" target="_blank">Code</a> |
 | Dashboard  | <https://fazevennom-syncfusion-dashboard.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/syncfusion-dashboard" target="_blank">Code</a> |
-| tic-tac-toe  | `<Unhosted>` | <a href="https://github.com/shubhanggupta2000/tic_tac_toe" target="_blank">Code</a> |
 <br/>
