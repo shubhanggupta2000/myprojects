@@ -11,7 +11,7 @@
 | ecommerce | <https://fazevennom-shoppify.vercel.app/> | <a href="https://github.com/shubhanggupta2000/ecommerce" target="_blank">Code</a> |
 | YouTube clone | <https://fazevennom-youtubeclone.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/youtube-clone" target="_blank">Code</a> |
 | Let's Travel  | <https://fazevennom-buses.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/bus-ticket-booking" target="_blank">Code</a> |
-| Golds-gym  | <https://fazevennom-gym.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/Gym_React_App" target="_blank">Code</a> |
+| Golds-gym  | <https://fazevennom-gym.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/Golds-gym" target="_blank">Code</a> |
 | E-Education  | `<Unhosted>` | <a href="https://github.com/shubhanggupta2000/responsive_website" target="_blank">Code</a> |
 | Closet  | <https://fazevennom-closet-ecommerce.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/Closet" target="_blank">Code</a> |
 | Chatbot  | `<Unhosted>`  | <a href="https://github.com/shubhanggupta2000/Chatbot" target="_blank">Code</a> |
