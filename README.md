@@ -2,6 +2,7 @@
 
 | Project Name  | Deployed link | Source Code |
 | ------------- | ------------- | ------------- |
+| Portfolio  | `<Unhosted>`  | <a href="https://github.com/shubhanggupta2000/portfolio" target="_blank">Code</a> |
 | ProShop - Ecommerce | <https://proshop-2.onrender.com/>  | <a href="https://github.com/shubhanggupta2000/proshop_ecommerce" target="_blank">Code</a> |
 | SushiMan | <https://sushiman-app.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/sushiman" target="_blank">Code</a> |
 | Codex - ChatGPT | <https://codex-shubhanggupta2000.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/Codex" target="_blank">Code</a> |
@@ -19,5 +20,4 @@
 | Gericht Restaurant  | <https://fazevennom-gericht.netlify.app/> | <a href="https://github.com/shubhanggupta2000/Restaurant_UI" target="_blank">Code</a> |
 | Dashboard  | <https://fazevennom-syncfusion-dashboard.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/syncfusion-dashboard" target="_blank">Code</a> |
 | Evolux  | <https://evolux-car-website.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/evolux-car-website" target="_blank">Code</a> |
-| Portfolio  | `<Unhosted>`  | <a href="https://github.com/shubhanggupta2000/portfolio" target="_blank">Code</a> |
 <br/>
