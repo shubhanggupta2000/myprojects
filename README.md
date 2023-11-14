@@ -2,7 +2,7 @@
 
 | Project Name  | Deployed link | Source Code |
 | ------------- | ------------- | ------------- |
-| Portfolio  | `<Unhosted>`  | <a href="https://github.com/shubhanggupta2000/portfolio" target="_blank">Code</a> |
+| Portfolio  | <https://www.guptashubhang.me/>  | <a href="https://github.com/shubhanggupta2000/portfolio" target="_blank">Code</a> |
 | ProShop - Ecommerce | <https://proshop-2.onrender.com/>  | <a href="https://github.com/shubhanggupta2000/proshop_ecommerce" target="_blank">Code</a> |
 | SushiMan | <https://sushiman-app.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/sushiman" target="_blank">Code</a> |
 | Codex - ChatGPT | <https://codex-shubhanggupta2000.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/Codex" target="_blank">Code</a> |
