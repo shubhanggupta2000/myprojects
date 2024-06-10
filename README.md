@@ -3,6 +3,7 @@
 | Project Name  | Deployed link | Source Code |
 | ------------- | ------------- | ------------- |
 | Portfolio  | <https://www.guptashubhang.me>  | <a href="https://github.com/shubhanggupta2000/portfolio" target="_blank">Code</a> |
+| E-Bharat  | <https://firebase-ecommerce-fazevennom.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/firebase-ecommerce" target="_blank">Code</a> |
 | Netflix Clone  | `<Unhosted>` | <a href="https://github.com/shubhanggupta2000/netflix-clone" target="_blank">Code</a> |
 | FazeBlog  | <https://fazeblog.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/fazeblog" target="_blank">Code</a> |
 | ProShop - Ecommerce | <https://proshop-2.onrender.com/>  | <a href="https://github.com/shubhanggupta2000/proshop_ecommerce" target="_blank">Code</a> |
