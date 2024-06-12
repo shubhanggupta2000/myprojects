@@ -12,7 +12,7 @@
 | Movies Info | <https://fazevennom-movies-info.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/movies-info" target="_blank">Code</a> |
 | Quiz-app | <https://fazevennom-quiz-app.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/quiz-app" target="_blank">Code</a> |
 | Todo  | <https://fazevennom-todo.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/todo" target="_blank">Code</a> |
-| Simple-Calculator  | `<Unhosted>` | <a href="https://github.com/shubhanggupta2000/react_calculator" target="_blank">Code</a> |
+| Simple-Calculator  | <https://calculator-fazevennom.vercel.app/> | <a href="https://github.com/shubhanggupta2000/react_calculator" target="_blank">Code</a> |
 | ecommerce | <https://fazevennom-shoppify.vercel.app/> | <a href="https://github.com/shubhanggupta2000/ecommerce" target="_blank">Code</a> |
 | YouTube clone | <https://fazevennom-youtubeclone.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/youtube-clone" target="_blank">Code</a> |
 | Let's Travel  | <https://fazevennom-buses.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/bus-ticket-booking" target="_blank">Code</a> |
