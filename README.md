@@ -23,4 +23,3 @@
 | Gericht Restaurant  | <https://fazevennom-gericht.netlify.app/> | <a href="https://github.com/shubhanggupta2000/Restaurant_UI" target="_blank">Code</a> |
 | Dashboard  | <https://fazevennom-syncfusion-dashboard.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/syncfusion-dashboard" target="_blank">Code</a> |
 | Evolux  | <https://evolux-car-website.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/evolux-car-website" target="_blank">Code</a> |
-<br/>
