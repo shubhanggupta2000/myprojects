@@ -7,11 +7,10 @@
 | E-Bharat  | <https://firebase-ecommerce-fazevennom.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/firebase-ecommerce" target="_blank">Code</a> |
 | Zentry  | <https://zentry-nine.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/zentry" target="_blank">Code</a> |
 | Netflix Clone  | `<Unhosted>` | <a href="https://github.com/shubhanggupta2000/netflix-clone" target="_blank">Code</a> |
-| FazeBlog  | <https://fazeblog.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/fazeblog" target="_blank">Code</a> |
 | ProShop - Ecommerce | <https://proshop-2.onrender.com/>  | <a href="https://github.com/shubhanggupta2000/proshop_ecommerce" target="_blank">Code</a> |
 | SushiMan | <https://sushiman-app.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/sushiman" target="_blank">Code</a> |
 | Codex - ChatGPT | <https://codex-shubhanggupta2000.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/Codex" target="_blank">Code</a> |
-| Movies Info | <https://faze-movies-info.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/movies-info" target="_blank">Code</a> |
+| Faze Films | <https://faze-movies-info.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/movies-info" target="_blank">Code</a> |
 | Quiz-app | <https://fazevennom-quiz-app.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/quiz-app" target="_blank">Code</a> |
 | Todo  | <https://fazevennom-todo.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/todo" target="_blank">Code</a> |
 | Simple-Calculator  | <https://calculator-fazevennom.vercel.app/> | <a href="https://github.com/shubhanggupta2000/react_calculator" target="_blank">Code</a> |
