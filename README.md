@@ -3,6 +3,7 @@
 | Project Name  | Deployed link | Source Code |
 | ------------- | ------------- | ------------- |
 | Portfolio  | <https://www.guptashubhang.tech>  | <a href="https://github.com/shubhanggupta2000/portfolio" target="_blank">Code</a> |
+| FazeBlog  | <https://blog.guptashubhang.tech/>  | <a href="https://github.com/shubhanggupta2000/fazeblog" target="_blank">Code</a> |
 | StoreIt  | <https://store-it-jet.vercel.app>  | <a href="https://github.com/shubhanggupta2000/storeIt" target="_blank">Code</a> |
 | ProShop | <https://proshop-faze.vercel.app>  | <a href="https://github.com/shubhanggupta2000/proshop_ecommerce" target="_blank">Code</a> |
 | E-Bharat  | <https://firebase-ecommerce-fazevennom.vercel.app/>  | <a href="https://github.com/shubhanggupta2000/firebase-ecommerce" target="_blank">Code</a> |
