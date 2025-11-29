@@ -2,8 +2,8 @@
 
 | Project Name  | Deployed link | Source Code |
 | ------------- | ------------- | ------------- |
-| Portfolio  | <https://www.guptashubhang.tech>  | <a href="https://github.com/shubhanggupta2000/portfolio" target="_blank">Code</a> |
-| FazeBlog  | <https://blog.guptashubhang.tech/>  | <a href="https://github.com/shubhanggupta2000/fazeblog" target="_blank">Code</a> |
+| Portfolio  | <https://guptashubhang.vercel.app>  | <a href="https://github.com/shubhanggupta2000/portfolio" target="_blank">Code</a> |
+| FazeBlog  | <https://fazeblog.vercel.app>  | <a href="https://github.com/shubhanggupta2000/fazeblog" target="_blank">Code</a> |
 | StoreIt  | <https://store-it-jet.vercel.app>  | <a href="https://github.com/shubhanggupta2000/storeIt" target="_blank">Code</a> |
 | ProShop | <https://proshop-faze.vercel.app>  | <a href="https://github.com/shubhanggupta2000/proshop_ecommerce" target="_blank">Code</a> |
 | Golds-gym  | <https://fazevennom-gym.netlify.app/>  | <a href="https://github.com/shubhanggupta2000/Golds-gym" target="_blank">Code</a> |
